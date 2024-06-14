@@ -26,3 +26,9 @@ Fri 14 Jun 2024 08:54:52 PM UTC:
  tests:  8|5
 total_score: 15/70
 dbb6536
+Fri 14 Jun 2024 09:08:11 PM UTC: 
+ treemap.c | 82 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++----
+ 1 file changed, 78 insertions(+), 4 deletions(-)
+ tests:  29|0
+total_score: 70/70
+21af4d1
